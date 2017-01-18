@@ -40,6 +40,14 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAeAAAAFoCAYAAACPNyggAAAOhUlEQVR4Xu
 <l>10</l>
 </block>
 </script>
+<script x="583" y="185">
+<block s="forward">
+<l>10</l>
+</block>
+<block s="doWait">
+<l>1</l>
+</block>
+</script>
 </scripts>
 </sprite>
 </sprites>
