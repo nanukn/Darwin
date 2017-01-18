@@ -1,7 +1,7 @@
 <project name="darwingame" app="CSnap 1.0, https://community.csdt.rpi.edu" version="1">
 <notes/>
 <thumbnail>
-data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAAB4CAYAAAB1ovlvAAADNklEQVR4Xu2XMY4aURQEZ+9BRkTCSUgg5wwchjuQEJBwEDJCJC7CyiOvJVuO/gTdUpXDlf687q6Sdv31+Xw+k/9cILTAlwKGlvfsvIACKkJ0AQWMzu9xBdSB6AIKGJ3f4wqoA9EFFDA6v8cVUAeiCyhgdH6PK6AORBdQwOj8HldAHYguoIDR+T2ugDoQXUABo/N7XAF1ILqAAkbn97gC6kB0AQWMzu9xBdSB6AIKGJ3f4wqoA9EFFDA6v8cVUAeiCyhgdH6PK6AORBdQwOj8HldAHYguoIDR+T2ugDoQXUABo/N7XAF1ILqAAkbn97gC6kB0AQWMzu9xBdSB6AIKGJ3f4wqoA9EFFDA6v8cVUAeiCyjggvl3u938+n6/L/gK+6kCLuC/3+/n17fbbcFX2E8VcAF/BVww3u+nCji44fv9nk6n0/z6fD5Pq9Vq8EvsZwo4yH+73U7r9Xp+/Xq9psfjMfgl9jMFHOT/8+v357l/B44NqYBju00KODjcP88UcGDH6/U6XS6XP//7/SXj8XicDofDwNfYTxRwgP9ms5mez+dfL//3s4FP454oIA55V2EF7OKBS6OAOORdhRWwiwcujQLikHcVVsAuHrg0CohD3lVYAbt44NIoIA55V2EF7OKBS6OAOORdhRWwiwcujQLikHcVVsAuHrg0CohD3lVYAbt44NIoIA55V2EF7OKBS6OAOORdhRWwiwcujQLikHcVVsAuHrg0CohD3lVYAbt44NIoIA55V2EF7OKBS6OAOORdhRWwiwcujQLikHcVVsAuHrg0CohD3lVYAbt44NIoIA55V2EF7OKBS6OAOORdhRWwiwcujQLikHcVVsAuHrg0CohD3lVYAbt44NIoIA55V2EF7OKBS6OAOORdhRWwiwcujQLikHcVVsAuHrg0CohD3lVYAbt44NIoIA55V2EF7OKBS6OAOORdhRWwiwcujQLikHcVVsAuHrg0CohD3lVYAbt44NIoIA55V2EF7OKBS6OAOORdhRWwiwcujQLikHcVVsAuHrg0CohD3lVYAbt44NIoIA55V2EF7OKBS6OAOORdhRWwiwcujQLikHcVVsAuHrg03xJGCLfusjB5AAAAAElFTkSuQmCC
+data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAAB4CAYAAAB1ovlvAAADN0lEQVR4Xu3YMQ4BARSE4YfCARRuo1UKcQKVuyg1KrVCuIFChMY1JBpHkJVV7BUmM/lV2733Zr6w0Wuapik+JCBKoAdAUfKM/ScAQCBIEwCgNH6GAxAD0gQAKI2f4QDEgDQBAErjZzgAMSBNAIDS+BkOQAxIEwCgNH6GAxAD0gQAKI2f4QDEgDQBAErjZzgAMSBNAIDS+BkOQAxIEwCgNH6GAxAD0gQAKI2f4QDEgDQBAErjZzgAMSBNAIDS+BkOQAxIEwCgNH6GAxAD0gQAKI2f4QDEgDQBAErjZzgAMSBNAIDS+BkOQAxIEwCgNH6GAxAD0gQAKI2f4QDEgDQBAErjZzgAMSBNAIDS+BkOQAxIEwCgNH6GAxAD0gQAKI2f4QDEgDQBAErjZzgAMSBNAIDS+BkOQAxIEwCgNH6GAxAD0gQAKI2f4QDEgDQBAErjZzgAMSBNAIDS+BkOQAxIEwCgNH6GAxAD0gQAKI2f4TYAV6tV7ff7rrHlclnH45EGzROwATibzerz+dTtdqv2+fV61fP5NI+f9W0Att943++3a2y9Xtd0OqVB8wRsAG6327pcLl3ch8OhhsOhefysbwOwrWo+n3eNnc9n2gtIwApg++7X7/fr/X7X4/EIiJ8TrABOJpMajUa12+1qPB7TXkACVgDv93ttNpv/3y+DwSAgfk6wAtjWtVgs6nQ60VxIAnYA25/h6/UaEj9n2AGksqwEAJjVp901ALSrLGthAGb1aXcNAO0qy1oYgFl92l0DQLvKshYGYFafdtcA0K6yrIUBmNWn3TUAtKssa2EAZvVpdw0A7SrLWhiAWX3aXQNAu8qyFgZgVp921wDQrrKshQGY1afdNQC0qyxrYQBm9Wl3DQDtKstaGIBZfdpdA0C7yrIWBmBWn3bXANCusqyFAZjVp901ALSrLGthAGb1aXcNAO0qy1oYgFl92l0DQLvKshYGYFafdtcA0K6yrIUBmNWn3TUAtKssa2EAZvVpdw0A7SrLWhiAWX3aXQNAu8qyFgZgVp921wDQrrKshQGY1afdNQC0qyxrYQBm9Wl3DQDtKstaGIBZfdpdA0C7yrIWBmBWn3bX/AAysRS3zqDQBgAAAABJRU5ErkJggg==
 </thumbnail>
 <stage name="Stage" width="480" height="360" costume="0" tempo="60" threadsafe="false" lines="round" codify="false" scheduled="false" id="1">
 <pentrails>
@@ -17,7 +17,7 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAeAAAAFoCAYAAACPNyggAAAOhUlEQVR4Xu
 <blocks/>
 <scripts/>
 <sprites>
-<sprite name="Sprite" idx="1" x="0" y="60" z="0" heading="0" xRotation="" yRotation="" zRotation="" scale="1" rotation="1" draggable="true" costume="0" color="80,80,80" pen="tip" id="8">
+<sprite name="Sprite" idx="1" x="-107" y="-35" z="0" heading="180" xRotation="" yRotation="" zRotation="" scale="1" rotation="1" draggable="true" costume="0" color="80,80,80" pen="tip" id="8">
 <costumes>
 <list id="9"/>
 </costumes>
@@ -40,12 +40,17 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAeAAAAFoCAYAAACPNyggAAAOhUlEQVR4Xu
 <l>10</l>
 </block>
 </script>
-<script x="583" y="185">
+<script x="80" y="226">
+<block s="receiveKey">
+<l>
+<option>s</option>
+</l>
+</block>
+<block s="setHeading">
+<l>180</l>
+</block>
 <block s="forward">
 <l>10</l>
-</block>
-<block s="doWait">
-<l>1</l>
 </block>
 </script>
 </scripts>
